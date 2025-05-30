@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "480699554826",
+    "project_id": "tasarim-stok",
+    "storage_bucket": "tasarim-stok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480699554826:android:960277ca945c393b07d3f3",
+        "android_client_info": {
+          "package_name": "com.app.tm_stok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480699554826-2frkptm0p0qt0jur9qf85hj4eu2uqrd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSn2j4aoEqsulmIv2sOLRlWkMU_Y5ezAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480699554826-2frkptm0p0qt0jur9qf85hj4eu2uqrd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480699554826-2vi865an7bnk1qbg1psp81aiu1mt74ff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tmStok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
